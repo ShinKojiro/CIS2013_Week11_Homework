@@ -3,7 +3,7 @@
 
 using namespace std;
 
-class Car(){
+class Car{
 
 private:
 
